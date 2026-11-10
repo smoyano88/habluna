@@ -1,4 +1,4 @@
-# Abralia — Español para conectar
+# Talkmigo — Learn Spanish. Connect for real.
 
 Sitio bilingüe de clases personales de español online con Sergio Moyano. Inglés en `/` y `/en`, español en `/es`. Incluye diseño responsive, expresiones interactivas, preguntas frecuentes y contacto por correo.
 
@@ -20,7 +20,7 @@ Importar este repositorio en Vercel, con preset **Other**. El archivo `vercel.js
 - `build.mjs`: plantillas HTML, SEO y generación de páginas.
 - `public/style.css`: identidad visual y adaptación móvil.
 - `public/app.js`: menú, expresiones y formulario.
-- `public/abralia.png` y `public/sergio-editorial.jpg`: marca y retrato optimizados. Los originales están en `assets/originals`.
+- `public/talkmigo.png` y `public/sergio-editorial.jpg`: marca y retrato optimizados. Los originales están en `assets/originals`.
 - `SITE_URL`: dominio de producción para canonical, Open Graph y sitemap. Predeterminado: https://habluna.vercel.app. Actualizar si se conecta un dominio propio.
 
 El formulario **no envía datos a un servidor**: abre un borrador `mailto:` en el dispositivo del visitante. El visitante debe enviarlo con su aplicación de correo. Dirección actual: `smoyano1988@gmail.com`.
